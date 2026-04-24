@@ -1,0 +1,36 @@
+[submodule "WoWs-RS"]
+	path = WoWs-RS
+	url = https://github.com/wowsinfo/WoWs-RS.git
+[submodule "react-native-app"]
+	path = react-native-app
+	url = https://github.com/wowsinfo/react-native-app.git
+[submodule "WoWSFT-Kotlin"]
+	path = WoWSFT-Kotlin
+	url = https://github.com/wowsinfo/WoWSFT-Kotlin.git
+[submodule "community-assistant"]
+	path = community-assistant
+	url = https://github.com/wowsinfo/community-assistant.git
+[submodule "flutter-app"]
+	path = flutter-app
+	url = https://github.com/wowsinfo/flutter-app.git
+[submodule "wows-toolkit"]
+	path = wows-toolkit
+	url = https://github.com/landaire/wows-toolkit.git
+[submodule "WoWsUnpack-Ultra"]
+	path = WoWsUnpack-Ultra
+	url = https://github.com/wowsinfo/WoWsUnpack-Ultra.git
+[submodule "WoWs-ShipBuilder"]
+	path = WoWs-ShipBuilder
+	url = https://github.com/WoWs-Builder-Team/WoWs-ShipBuilder.git
+[submodule "WowsApi"]
+	path = WowsApi
+	url = https://github.com/wows-yuyuko/WowsApi.git
+[submodule "wows-mgaia-vue3"]
+	path = wows-mgaia-vue3
+	url = https://github.com/wows-yuyuko/wows-mgaia-vue3.git
+[submodule "PotatoAlert"]
+	path = PotatoAlert
+	url = https://github.com/razaqq/PotatoAlert.git
+[submodule "wows-constants"]
+	path = wows-constants
+	url = https://github.com/padtrack/wows-constants.git

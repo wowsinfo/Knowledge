@@ -1,0 +1,2 @@
+# Knowledge for World of Warships
+This repo contains many of my own projects and other great projects done by other developers, mainly used to build a local database as a MCP server for any coding agents to cross reference.
